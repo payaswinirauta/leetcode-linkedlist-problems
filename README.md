@@ -7,4 +7,4 @@ Solved using **iterative pointer manipulation** on singly linked lists.
 - Focused on **time and space optimization**.
 - Time Complexity: O(n + m)
 - Space Complexity: O(1)
-- Status: ✅ Accepted
+- Status: Accepted
